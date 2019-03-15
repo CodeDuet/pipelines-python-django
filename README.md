@@ -1,11 +1,11 @@
-[![Build Status](https://dev.azure.com/codeDuet/My%20First%20Pipeline%20(Dev)/_apis/build/status/CodeDuet.pipelines-python-django?branchName=master)](https://dev.azure.com/codeDuet/My%20First%20Pipeline%20(Dev)/_build/latest?definitionId=1&branchName=master)
+
 
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 # Build Status
-[![Build Status](https://dev.azure.com/ksapp0384/My%20first%20pipeline/_apis/build/status/CodeDuet.pipelines-python-django?branchName=master)](https://dev.azure.com/ksapp0384/My%20first%20pipeline/_build/latest?definitionId=1?branchName=master)
+[![Build Status](https://dev.azure.com/codeDuet/My%20First%20Pipeline%20(Dev)/_apis/build/status/CodeDuet.pipelines-python-django?branchName=master)](https://dev.azure.com/codeDuet/My%20First%20Pipeline%20(Dev)/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
